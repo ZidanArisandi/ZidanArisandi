@@ -14,10 +14,10 @@ the games I play are only Mobile Legend and Valorant. The rest I only see conten
 <a href="https://osu.ppy.sh/users/29848041" style="color: #fff;">Osu Profile</a></button>
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/Y4zidd/Y4zidd/main/AristiaEdit%20but%20SZ.zip" style="color: #fff;">Osu Skin</a></button>
+<a href="https://raw.githubusercontent.com/ZidanArisandi/ZidanArisandi/main/AristiaEdit%20but%20SZ.zip" style="color: #fff;">Osu Skin</a></button>
 
 <p align="center">
-<a href="https://youtu.be/dQw4w9WgXcQ" style="color: #fff;">🎉 Surprise 🎉</a></button>
+<a href="https://youtu.be/dQw4w9WgXcQ" style="color: #fff;">🎉 Buka Bang 🎉</a></button>
 
 <h2 align="center">Sedang Di Pelajari <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
