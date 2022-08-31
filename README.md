@@ -1,6 +1,8 @@
 ## 👋 Hello, I'm ZidanArisandi
+  <p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/kGvkq9k/c57.gif" alt="c57" border="0" /></a>
+</p>
 
-![Banner](kaguya.jpeg) <br />
 [<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](nothing)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zidanarisandi/)
 
