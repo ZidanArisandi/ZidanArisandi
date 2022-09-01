@@ -1,2 +1,29 @@
 link visual studio: https://www.mediafire.com/file/rzh5yzk8plwh3r7/Visual_Basic_6.0_Enterprise_Edition_Full.rar/file
 link web html with css: https://www.youtube.com/watch?v=CQZxeoQeo5c
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.kota {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+} 
+
+.main {
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h2>Multiple Classes</h2>
+<p>Berikut ini contoh multiple class.</p>
+
+<h2 class="city main">London</h2>
+<h2 class="city">Paris</h2>
+<h2 class="city">Tokyo</h2>
+
+</body>
+</html>
