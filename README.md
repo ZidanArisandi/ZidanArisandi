@@ -4,7 +4,7 @@
 </p>
 
 [<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](nothing)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zidanarisandi/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zdnarsndi/)
 
 ### ℹ &nbsp;Personal Stuffs
 - 💻 I'm currently studying `Coding` 🚀.
